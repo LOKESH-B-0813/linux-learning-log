@@ -1,6 +1,6 @@
 # My Linux learning log
 
-Completed **6 of 50** hands-on tasks, each auto-checked on a real Linux shell.
+Completed **7 of 50** hands-on tasks, each auto-checked on a real Linux shell.
 
 | # | Module | Task | Date | Command used |
 |---|---|---|---|---|
@@ -10,3 +10,4 @@ Completed **6 of 50** hands-on tasks, each auto-checked on a real Linux shell.
 | 4 | Files and folders | Build a folder tree | 2026-10-15 | `mkdir js` |
 | 5 | Files and folders | Copy and rename | 2026-10-15 | `mv b.txt report.txt` |
 | 6 | Files and folders | Delete a folder | 2026-10-15 | `rm -rf old` |
+| 7 | Reading and writing text | Write and append | 2026-10-15 | `echo 'learn aws' >> todo.txt` |

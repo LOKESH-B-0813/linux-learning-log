@@ -55,6 +55,19 @@
         "ls",
         "rm -rf old"
       ]
+    },
+    "x01": {
+      "date": "2026-10-15",
+      "commands": [
+        "touch todo.txt",
+        "echo 'learn linux','learn aws' >> todo.txt",
+        "cat todo.txt",
+        "echo 'learn linux' >>todo.txt",
+        "echo 'learn aws' >> todo.txt",
+        "ls",
+        "echo 'learn linux' > todo.txt",
+        "echo 'learn aws' >> todo.txt"
+      ]
     }
   }
 }
