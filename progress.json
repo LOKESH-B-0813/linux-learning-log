@@ -13,6 +13,16 @@
         "ls",
         "cd docs/work/reports"
       ]
+    },
+    "n03": {
+      "date": "2026-10-15",
+      "commands": [
+        "ls -al",
+        "ls -la",
+        "ls",
+        "cat .sceret",
+        "cat .secret"
+      ]
     }
   }
 }
