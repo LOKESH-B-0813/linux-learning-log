@@ -2,7 +2,11 @@
 
 Practise **real Linux commands** (not a simulation). Each lesson gives you a task, you type commands, and the tool checks the result on your real system. When you pass, it moves to the next lesson and **commits and pushes your progress to your GitHub repo** (`PROGRESS.md` shows on your profile as proof of practice).
 
-21 lessons: 7 everyday-toolkit tasks (cut, sort, uniq, sed, awk, diff, tar, symlinks) and 14 real-world tasks (permission errors, full disks, busy ports, curl, PATH, cron, log hunting, SSH keys, brute-force detection, redirects, git).
+**A complete course, zero to expert, with no outside websites needed.** 15 modules and 50 checked tasks. Every module first TEACHES the topic in plain words, then gives small tasks that get harder:
+
+- **Beginner:** moving around, files and folders, reading and writing text, finding things, getting help
+- **Intermediate:** permissions, users, processes, pipes and text tools, packages and services
+- **Advanced:** networking, Bash scripting, backups and cron, disk/memory/logs, SSH security and git
 
 ## Setup (about 10 minutes)
 
@@ -28,7 +32,7 @@ Practise **real Linux commands** (not a simulation). Each lesson gives you a tas
 
 - Type normal shell commands at the prompt. `cd` works, and commands run for real in a practice folder (`~/linuxlab-workspace`).
 - The lesson is checked after every command. Pass = next lesson + automatic `git commit` and `git push`.
-- Special commands: `:hint`, `:answer`, `:skip`, `:list`, `:reset`, `:quit`. Use `edit file` to open nano.
+- Special commands: `:learn` (re-read the module), `:hint`, `:answer`, `:skip`, `:list`, `:reset`, `:quit`. Use `edit file` to open nano.
 - Not supported: interactive programs (vim, top) and variables that persist between commands.
 - Try without answers first. Struggling is where the learning happens.
 
