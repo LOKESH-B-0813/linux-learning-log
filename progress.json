@@ -48,6 +48,13 @@
         "cp a.txt backup/",
         "mv b.txt report.txt"
       ]
+    },
+    "f03": {
+      "date": "2026-10-15",
+      "commands": [
+        "ls",
+        "rm -rf old"
+      ]
     }
   }
 }
