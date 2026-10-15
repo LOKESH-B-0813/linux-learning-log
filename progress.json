@@ -23,6 +23,18 @@
         "cat .sceret",
         "cat .secret"
       ]
+    },
+    "f01": {
+      "date": "2026-10-15",
+      "commands": [
+        "ls",
+        "mkdir projects",
+        "cd projects",
+        "mkdir web",
+        "cd web",
+        "mkdir css",
+        "mkdir js"
+      ]
     }
   }
 }
