@@ -35,6 +35,19 @@
         "mkdir css",
         "mkdir js"
       ]
+    },
+    "f02": {
+      "date": "2026-10-15",
+      "commands": [
+        "cp a.txt backup/",
+        "mv a.txt report.txt",
+        "mv b.txt report.txt",
+        "ls",
+        "mv report.txt b.txt",
+        "cp backup/a.txt .",
+        "cp a.txt backup/",
+        "mv b.txt report.txt"
+      ]
     }
   }
 }
