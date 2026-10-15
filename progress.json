@@ -5,6 +5,14 @@
       "commands": [
         "pwd"
       ]
+    },
+    "n02": {
+      "date": "2026-10-15",
+      "commands": [
+        "pwd",
+        "ls",
+        "cd docs/work/reports"
+      ]
     }
   }
 }
