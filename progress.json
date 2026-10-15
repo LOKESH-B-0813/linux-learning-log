@@ -68,6 +68,12 @@
         "echo 'learn linux' > todo.txt",
         "echo 'learn aws' >> todo.txt"
       ]
+    },
+    "x02": {
+      "date": "2026-10-15",
+      "commands": [
+        "tail -n 2 data.txt"
+      ]
     }
   }
 }
