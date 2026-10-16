@@ -81,6 +81,15 @@
         "grep -n error log.txt",
         "grep -ic error log.txt"
       ]
+    },
+    "s02": {
+      "date": "2026-10-16",
+      "commands": [
+        "ls",
+        "ls -la",
+        "ls -al",
+        "find . -name target.conf"
+      ]
     }
   }
 }
