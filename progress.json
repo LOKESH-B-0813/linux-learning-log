@@ -103,6 +103,15 @@
         "echo wc -l < numbers.txt << count.txt",
         "wc -l < numbers.txt >> count.txt"
       ]
+    },
+    "h01": {
+      "date": "2026-10-16",
+      "commands": [
+        "ls --help",
+        "man ls",
+        "ls --time-style",
+        "ls -t"
+      ]
     }
   }
 }
