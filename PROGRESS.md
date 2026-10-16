@@ -1,6 +1,6 @@
 # My Linux learning log
 
-Completed **10 of 50** hands-on tasks, each auto-checked on a real Linux shell.
+Completed **11 of 50** hands-on tasks, each auto-checked on a real Linux shell.
 
 | # | Module | Task | Date | Command used |
 |---|---|---|---|---|
@@ -14,3 +14,4 @@ Completed **10 of 50** hands-on tasks, each auto-checked on a real Linux shell.
 | 8 | Reading and writing text | Read the end of a file | 2026-10-15 | `tail -n 2 data.txt` |
 | 9 | Finding things | Search text | 2026-10-15 | `grep -ic error log.txt` |
 | 10 | Finding things | Find a buried file | 2026-10-16 | `find . -name target.conf` |
+| 11 | Finding things | Count lines | 2026-10-16 | `wc -l < numbers.txt >> count.txt` |

@@ -90,6 +90,19 @@
         "ls -al",
         "find . -name target.conf"
       ]
+    },
+    "s03": {
+      "date": "2026-10-16",
+      "commands": [
+        "wc -l numbers.txt",
+        "wc -l < numbers.txt",
+        "wc -l < numbers.txt << count.txt",
+        "touch count.txt",
+        "ls",
+        "wc -l < numbers.txt << count.txt",
+        "echo wc -l < numbers.txt << count.txt",
+        "wc -l < numbers.txt >> count.txt"
+      ]
     }
   }
 }
